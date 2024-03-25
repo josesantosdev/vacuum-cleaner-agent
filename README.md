@@ -1,5 +1,11 @@
 ## **Descrição**
 
+
+
+Em ação:
+
+<a href="https://gifyu.com/image/SVwTn"><img src="https://s12.gifyu.com/images/SVwTn.gif" alt="2024 03 25 03 21 32" border="0" /></a>
+
 **Este projeto implementa um agente aspirador de pó em Python, utilizando os seguintes recursos:**
 
 - Simulação de ambiente: Um ambiente 2D com células sujas e limpas é criado para simular o cenário de limpeza.
