@@ -34,8 +34,9 @@ Em ação:
   - Implementar diferentes algoritmos de navegação para otimizar o movimento do agente.
     Adicionar sensores e obstáculos para aumentar a complexidade do ambiente.
   - Implementar aprendizado de máquina para que o agente aprenda a limpar o ambiente de forma autônoma.
-    Considerações
+
+### **Considerações**
   - Este projeto serve como um ponto de partida para explorar diferentes aspectos da inteligência artificial e da robótica. O código pode ser facilmente adaptado para diferentes cenários e objetivos.
 
-Licença
+### **Licença**
 Este projeto está licenciado sob a licença MIT.
